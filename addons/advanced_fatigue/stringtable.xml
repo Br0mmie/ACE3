@@ -33,6 +33,7 @@
             <Portuguese>Fator de Performance</Portuguese>
             <Czech>Faktor výkonu</Czech>
             <Turkish>Performans Faktörü</Turkish>
+            <Danish>Ydeevne</Danish>
         </Key>
         <Key ID="STR_ACE_Advanced_Fatigue_PerformanceFactor_Description">
             <English>Influences the overall performance of all players with no custom factor. Higher means better.</English>
