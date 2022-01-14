@@ -16,6 +16,7 @@
             <Spanish>Posición inválida proporcionada</Spanish>
             <Czech>Pozice není validní.</Czech>
             <Turkish>Geçersiz Konum</Turkish>
+            <Danish>Ugyldig position angivet.</Danish>
         </Key>
         <Key ID="STR_ACE_AI_GarrisonNoUnits">
             <English>No units provided.</English>
@@ -32,6 +33,7 @@
             <Spanish>No hay unidades proporcionadas.</Spanish>
             <Czech>Nejsou k dispozici žádné jednotky.</Czech>
             <Turkish>Hiçbir Birim Bulunamadı</Turkish>
+            <Danish>Ingen enheder tildelt.</Danish>
         </Key>
         <Key ID="STR_ACE_AI_GarrisonNotEnoughPos">
             <English>There aren't enough positions to place all units.</English>
@@ -48,6 +50,7 @@
             <Spanish>No hay suficientes posiciones para colocar todas las unidades.</Spanish>
             <Czech>Není dostatek pozic pro všechny jednotky.</Czech>
             <Turkish>Tüm birimleri yerleştirmek için yeterli konum yok.</Turkish>
+            <Danish>Der er ikke nok stillinger til at placere alle enheder.</Danish>
         </Key>
         <Key ID="STR_ACE_AI_GarrisonNoBuilding">
             <English>No building found.</English>
@@ -64,6 +67,7 @@
             <Spanish>No se ha encontrado ningún edificio.</Spanish>
             <Czech>Nenalezena žádná budova.</Czech>
             <Turkish>Bir yapı bulunamadı</Turkish>
+            <Danish>Ingen bygninger fundet</Danish>
         </Key>
     </Package>
 </Project>
