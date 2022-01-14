@@ -16,6 +16,7 @@
             <Portuguese>Ocultar</Portuguese>
             <Czech>Skrýt</Czech>
             <Turkish>Gizle</Turkish>
+            <Danish>Gem</Danish>
         </Key>
         <Key ID="STR_ACE_Arsenal_buttonHideTooltip">
             <English>Hide interface</English>
@@ -32,6 +33,7 @@
             <Portuguese>Oculta a Interface</Portuguese>
             <Czech>Skrýt rozhraní</Czech>
             <Turkish>Arayüzü gizle</Turkish>
+            <Danish>Gem interface</Danish>
         </Key>
         <Key ID="STR_ACE_Arsenal_buttonLoadoutsText">
             <English>Loadouts</English>
@@ -48,6 +50,7 @@
             <Portuguese>Loadouts</Portuguese>
             <Czech>Sady vybavení</Czech>
             <Turkish>Kıyafetler</Turkish>
+            <Danish>Udrustning</Danish>
         </Key>
         <Key ID="STR_ACE_Arsenal_buttonExportText">
             <English>Export</English>
@@ -64,6 +67,7 @@
             <Portuguese>Exportar</Portuguese>
             <Czech>Export</Czech>
             <Turkish>Dışa Aktar </Turkish>
+            <Danish>Eksportér</Danish>
         </Key>
         <Key ID="STR_ACE_Arsenal_buttonImportText">
             <English>Import</English>
@@ -80,6 +84,7 @@
             <Portuguese>Importar</Portuguese>
             <Czech>Import</Czech>
             <Turkish>Içe Aktar</Turkish>
+            <Danish>Importér</Danish>
         </Key>
         <Key ID="STR_ACE_Arsenal_buttonCloseText">
             <English>Close</English>
@@ -96,6 +101,7 @@
             <Portuguese>Fechar</Portuguese>
             <Czech>Zavřít</Czech>
             <Turkish>Kapat</Turkish>
+            <Danish>Luk</Danish>
         </Key>
         <Key ID="STR_ACE_Arsenal_noVirtualItems">
             <English>No virtual item available</English>
@@ -112,6 +118,7 @@
             <Portuguese>Nenhum item virtual disponível</Portuguese>
             <Czech>Není dostupný žádný virtuální předmět</Czech>
             <Turkish>Kullanılabilir sanal öğe yok</Turkish>
+            <Danish>Ingen virtuelle genstande tilgængelige</Danish>
         </Key>
         <Key ID="STR_ACE_Arsenal_buttonSaveText">
             <English>Save</English>
@@ -128,6 +135,7 @@
             <Portuguese>Salvar</Portuguese>
             <Czech>Uložit</Czech>
             <Turkish>Kaydet</Turkish>
+            <Danish>Gem</Danish>
         </Key>
         <Key ID="STR_ACE_Arsenal_buttonSaveTooltip">
             <English>Save the current loadout</English>
@@ -144,6 +152,7 @@
             <Portuguese>Salva o loadout atual</Portuguese>
             <Czech>Uložit současnou sadu vybavení</Czech>
             <Turkish>Geçerli kıyafetleri kaydet</Turkish>
+            <Danish>Gem nuværende udrustning</Danish>
         </Key>
         <Key ID="STR_ACE_Arsenal_buttonSaveTooltip_shiftClick">
             <English>[Shift+Click to save to mission defaults]</English>
@@ -159,6 +168,7 @@
             <Czech>[Shift+Klik pro uložení jako standardního vybavení pro misi]</Czech>
             <Turkish>[Shift+Click varsayılan kıyafetlere kaydet]</Turkish>
             <Korean>[쉬프트+클릭 하여 임무 기본으로 설정]</Korean>
+            <Danish>Shift+Click for at gemme til missions indstillinger  </Danish>
         </Key>
         <Key ID="STR_ACE_Arsenal_buttonRenameTooltip">
             <English>Rename the selected loadout</English>
@@ -175,6 +185,7 @@
             <Portuguese>Renomeia o loadout selecionado</Portuguese>
             <Czech>Přejmenovat vybranou sadu vybavení</Czech>
             <Turkish>Seçili kıyafetleri yeniden adlandır</Turkish>
+            <Danish>Omdøb den valgte udrustning</Danish>
         </Key>
         <Key ID="STR_ACE_Arsenal_buttonLoadText">
             <English>Load</English>
@@ -191,6 +202,7 @@
             <Portuguese>Carregar</Portuguese>
             <Czech>Nahrát</Czech>
             <Turkish>Yükle</Turkish>
+            <Danish>Indlæs</Danish>
         </Key>
         <Key ID="STR_ACE_Arsenal_buttonLoadTooltip">
             <English>Load the selected loadout</English>
@@ -207,6 +219,7 @@
             <Portuguese>Carrega o loadout selecionado</Portuguese>
             <Czech>Nahrát vybranou sadu vybavení</Czech>
             <Turkish>Seçili kıyafetleri yükle</Turkish>
+            <Danish>Indlæs det valgte loadout</Danish>
         </Key>
         <Key ID="STR_ACE_Arsenal_buttonDeleteText">
             <English>Delete</English>
@@ -223,6 +236,7 @@
             <Portuguese>Apagar</Portuguese>
             <Czech>Smazat</Czech>
             <Turkish>Sil</Turkish>
+            <Danish>Slet</Danish>
         </Key>
         <Key ID="STR_ACE_Arsenal_buttonDeleteTooltip">
             <English>Delete the selected loadout</English>
@@ -239,6 +253,7 @@
             <Portuguese>Apaga o loadout selecionado</Portuguese>
             <Czech>Smazat vybranou sadu vybavení</Czech>
             <Turkish>Seçili kıyafetleri sil</Turkish>
+            <Danish>Slet den valgte udrustning</Danish>
         </Key>
         <Key ID="STR_ACE_Arsenal_tabMyLoadoutsText">
             <English>My loadouts</English>
@@ -255,6 +270,7 @@
             <Portuguese>Meus loadouts</Portuguese>
             <Czech>Moje sady vybavení</Czech>
             <Turkish>Benim kıyafetlerim</Turkish>
+            <Danish>Mine loadouts</Danish>
         </Key>
         <Key ID="STR_ACE_Arsenal_tabMyLoadoutsTooltip">
             <English>Loadouts saved in your profile</English>
