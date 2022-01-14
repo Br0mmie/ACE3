@@ -34,6 +34,7 @@
             <Chinese>附掛</Chinese>
             <Chinesesimp>附挂</Chinesesimp>
             <Turkish>Bağla</Turkish>
+            <Danish>Påsæt</Danish>
         </Key>
         <Key ID="STR_ACE_Attach_Detach">
             <English>Detach item</English>
@@ -51,6 +52,7 @@
             <Chinese>取下裝備</Chinese>
             <Chinesesimp>取下装备</Chinesesimp>
             <Turkish>Eşyayı sök</Turkish>
+            <Danish>Aftag objekt</Danish>
         </Key>
         <Key ID="STR_ACE_Attach_IrStrobe_Attached">
             <English>IR Strobe Attached</English>
@@ -68,6 +70,7 @@
             <Chinese>已附掛紅外線頻閃器</Chinese>
             <Chinesesimp>已附挂红外线频闪器</Chinesesimp>
             <Turkish>IR Strobe Bağlandı</Turkish>
+            <Danish>IR Strobe påsat</Danish>
         </Key>
         <Key ID="STR_ACE_Attach_IrStrobe_Detached">
             <English>IR Strobe Detached</English>
@@ -85,6 +88,7 @@
             <Chinese>已取下紅外線頻閃器</Chinese>
             <Chinesesimp>已取下红外线频闪器</Chinesesimp>
             <Turkish>IR Strobe Söküldü</Turkish>
+            <Danish>IR Strobe aftaget</Danish>
         </Key>
         <Key ID="STR_ACE_Attach_IrGrenade_Attached">
             <English>IR Grenade Attached</English>
@@ -102,6 +106,7 @@
             <Chinese>已附掛紅外線手榴彈</Chinese>
             <Chinesesimp>已附挂红外线手榴弹</Chinesesimp>
             <Turkish>IR Bombası Bağlandı</Turkish>
+            <Danish>IR Granat påsat</Danish>
         </Key>
         <Key ID="STR_ACE_Attach_IrGrenade_Detached">
             <English>IR Grenade Detached</English>
@@ -119,6 +124,7 @@
             <Chinese>已取下紅外線手榴彈</Chinese>
             <Chinesesimp>已取下红外线手榴弹</Chinesesimp>
             <Turkish>IR Bombası Söküldü</Turkish>
+            <Danish>IR Granat aftaget</Danish>
         </Key>
         <Key ID="STR_ACE_Attach_Chemlight_Attached">
             <English>Chemlight Attached</English>
@@ -136,6 +142,7 @@
             <Chinese>已附掛螢光棒</Chinese>
             <Chinesesimp>已附挂萤光棒</Chinesesimp>
             <Turkish>Işık Çubuğu Bağlandı</Turkish>
+            <Danish>Knæklys påsat</Danish>
         </Key>
         <Key ID="STR_ACE_Attach_Chemlight_Detached">
             <English>Chemlight Detached</English>
@@ -153,6 +160,7 @@
             <Chinese>已取下螢光棒</Chinese>
             <Chinesesimp>已取下萤光棒</Chinesesimp>
             <Turkish>Işık Çubuğu Söküldü</Turkish>
+            <Danish>Knæklys aftaget</Danish>
         </Key>
         <Key ID="STR_ACE_Attach_IrStrobe_Name">
             <English>IR Strobe</English>
@@ -170,6 +178,7 @@
             <Chinese>紅外線頻閃器</Chinese>
             <Chinesesimp>红外线频闪器</Chinesesimp>
             <Turkish>IR Stroboskop</Turkish>
+            <Danish>IR Strobe</Danish>
         </Key>
         <Key ID="STR_ACE_Attach_IrStrobe_Description">
             <English>IR Strobe allows you to signal your position through a pulsating beacon only visible with NVGs.</English>
@@ -187,6 +196,7 @@
             <Chinese>紅外線閃頻器,藉由紅外線閃頻信號來辨識你的位置，僅能使用夜視系統來辨識紅外線信號</Chinese>
             <Chinesesimp>红外线闪频器,藉由红外线闪频信号来辨识你的位置，仅能使用夜视系统来辨识红外线信号</Chinesesimp>
             <Turkish>IR Stroboskop, yalnızca gece görüşlerinden gözükebilen titreşimli bir ışık aracılığıyla konumunuzu gösterir.</Turkish>
+            <Danish>IR Strobe sørger for at du gennem NVG'er kan se et pulserende lys</Danish>
         </Key>
         <Key ID="STR_ACE_Attach_PlaceAction">
             <English>Place</English>
@@ -204,6 +214,7 @@
             <Chinese>放置</Chinese>
             <Chinesesimp>放置</Chinesesimp>
             <Turkish>Yerleştir</Turkish>
+            <Danish>Placer</Danish>
         </Key>
         <Key ID="STR_ACE_Attach_CancelAction">
             <English>Cancel</English>
@@ -221,6 +232,7 @@
             <Chinese>取消</Chinese>
             <Chinesesimp>取消</Chinesesimp>
             <Turkish>Iptal</Turkish>
+            <Danish>Afbryd</Danish>
         </Key>
         <Key ID="STR_ACE_Attach_Failed">
             <English>Attach Failed</English>
@@ -238,6 +250,7 @@
             <Chinese>附掛失敗</Chinese>
             <Chinesesimp>附挂失败</Chinesesimp>
             <Turkish>Bağlama başarısız</Turkish>
+            <Danish>Påsætning fejlede</Danish>
         </Key>
         <Key ID="STR_ACE_Attach_Item_Attached">
             <English>%1&lt;br/&gt;Attached</English>
@@ -255,6 +268,7 @@
             <Chinese>%1&lt;br/&gt;已附掛</Chinese>
             <Chinesesimp>%1&lt;br/&gt;已附挂</Chinesesimp>
             <Turkish>%1&lt;br/&gt;Bağlandı</Turkish>
+            <Danish>%1&lt;br/&gt;Påsat</Danish>
         </Key>
         <Key ID="STR_ACE_Attach_Item_Detached">
             <English>%1&lt;br/&gt;Detached</English>
@@ -272,6 +286,7 @@
             <Chinese>%1&lt;br/&gt;已取下</Chinese>
             <Chinesesimp>%1&lt;br/&gt;已取下</Chinesesimp>
             <Turkish>%1&lt;br/&gt;Söküldü</Turkish>
+            <Danish>%1&lt;br/&gt;Aftaget</Danish>
         </Key>
     </Package>
 </Project>
