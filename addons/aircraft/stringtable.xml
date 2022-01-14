@@ -17,6 +17,7 @@
             <Chinese>XM301</Chinese>
             <Chinesesimp>XM301</Chinesesimp>
             <Turkish>XM301</Turkish>
+            <Danish>XM301</Danish>
         </Key>
         <Key ID="STR_ACE_Aircraft_OpenCargoRamp">
             <English>Open Cargo Door</English>
@@ -34,6 +35,7 @@
             <Chinese>開啟貨艙門</Chinese>
             <Chinesesimp>开启货舱门</Chinesesimp>
             <Turkish>Kargo kapısını aç</Turkish>
+            <Danish>Åben rampe</Danish>
         </Key>
         <Key ID="STR_ACE_Aircraft_CloseCargoRamp">
             <English>Close Cargo Door</English>
@@ -51,6 +53,7 @@
             <Chinese>關閉貨艙門</Chinese>
             <Chinesesimp>关闭货舱门</Chinesesimp>
             <Turkish>Kargo kapısını kapat</Turkish>
+            <Danish>Luk rampe</Danish>
         </Key>
         <Key ID="STR_ACE_Aircraft_GatlingDescriptionHEI">
             <English>30mm High-Explosive Incendiary</English>
@@ -65,6 +68,7 @@
             <Czech>30mm Tříštivo-trhavá zápalná střela</Czech>
             <Russian>30мм Осколочно-Фугасный Зажигательный</Russian>
             <Korean>30mm 고폭소이탄</Korean>
+            <Danish>30mm High-Explosive Incendiary</Danish>
         </Key>
         <Key ID="STR_ACE_Aircraft_GatlingDescriptionShortHEI">
             <English>30mm HEI</English>
@@ -79,6 +83,7 @@
             <Czech>30mm HEI</Czech>
             <Russian>30мм ОФЗ</Russian>
             <Korean>30mm HEI</Korean>
+            <Danish>30mm HEI</Danish>
         </Key>
         <Key ID="STR_ACE_Aircraft_GatlingDescriptionAP">
             <English>30mm DU Armor Piercing</English>
@@ -93,6 +98,7 @@
             <Czech>30mm Protipancéřová střela z ochuzeného Uranu</Czech>
             <Russian>30мм ОУ Бронебойный Снаряд</Russian>
             <Korean>30mm 열화우라늄 철갑탄</Korean>
+            <Danish>30mm DU Armor Piercing</Danish>
         </Key>
         <Key ID="STR_ACE_Aircraft_GatlingDescriptionShortAP">
             <English>30mm DU AP</English>
@@ -107,6 +113,7 @@
             <Czech>30 mm DU AP</Czech>
             <Russian>30мм ОУ БС</Russian>
             <Korean>30mm DU AP</Korean>
+            <Danish>30mm DU AP</Danish>
         </Key>
         <Key ID="STR_ACE_Aircraft_GatlingDescriptionCM41">
             <English>30mm Combat Mix 4:1 DU:HEI</English>
@@ -121,6 +128,7 @@
             <Czech>30mm Bojový Mix 4:1 DU:HEI</Czech>
             <Russian>30мм Смешанное боепитание 4:1 ОУ:ОФЗ</Russian>
             <Korean>30mm 4:1 열화:고폭소이</Korean>
+            <Danish>30mm Combat Mix 4:1 DU:HEI</Danish>
         </Key>
         <Key ID="STR_ACE_Aircraft_GatlingDescriptionShortCM41">
             <English>30mm CM 4:1</English>
@@ -135,6 +143,7 @@
             <Czech>30mm BM 4:1</Czech>
             <Russian>30мм СБ 4:1</Russian>
             <Korean>30mm CM 4:1</Korean>
+            <Danish>30mm CM 4:1</Danish>
         </Key>
         <Key ID="STR_ACE_Aircraft_GatlingDescriptionCM51">
             <English>30mm Combat Mix 5:1 DU:HEI</English>
@@ -149,6 +158,7 @@
             <Czech>30mm Bojový Mix 5:1 DU:HEI</Czech>
             <Russian>30мм Смешанное боепитание 5:1 ОУ:ОФЗ</Russian>
             <Korean>30mm 5:1 열화:고폭소이</Korean>
+            <Danish>30mm Combat Mix 5:1 DU:HEI</Danish>
         </Key>
         <Key ID="STR_ACE_Aircraft_GatlingDescriptionShortCM51">
             <English>30mm CM 5:1</English>
@@ -163,6 +173,7 @@
             <Czech>30mm BM 5:1</Czech>
             <Russian>30мм СБ 5:1</Russian>
             <Korean>30mm CM 5:1</Korean>
+            <Danish>30mm CM 5:1</Danish>
         </Key>
     </Package>
 </Project>
