@@ -16,6 +16,7 @@
             <Portuguese>ACE Fadiga Avançada</Portuguese>
             <Czech>ACE Pokročilá únava</Czech>
             <Turkish>ACE Gelişmiş Yorgunluk</Turkish>
+            <Danish>ACE Advanceret træthed</Danish>
         </Key>
         <Key ID="STR_ACE_Advanced_Fatigue_PerformanceFactor">
             <English>Performance Factor</English>
@@ -47,6 +48,7 @@
             <Russian>Влияет на общую производительность игроков, у которых не задано персональное значение.</Russian>
             <Portuguese>Influencia na performance geral de todos os jogadores sem nenhum fator personalizado. Quanto maior, melhor.</Portuguese>
             <Czech>Ovlivňuje celkový výkon všech hráčů bez vlastního faktoru. Vyšší znamená lépe.</Czech>
+            <Danish>Påvirker den overordnede ydeevne for alle spillere uden individuelt defineret ydeevne. Højere betyder bedre.</Danish>
         </Key>
         <Key ID="STR_ACE_Advanced_Fatigue_PerformanceFactor_EdenDescription">
             <English>Influences the overall performance of this unit. Higher means better.</English>
@@ -62,6 +64,7 @@
             <Russian>Влияет на общую производительность юнита.</Russian>
             <Portuguese>Influencia na performance geral dessa unidade. Quanto maior, melhor.</Portuguese>
             <Czech>Ovlivňuje celkový výkon této jednotky. Vyšší znamená lépe.</Czech>
+            <Danish>Påvirker den overordnede ydeevne for denne enhed. Højere betyder bedre.</Danish>
         </Key>
         <Key ID="STR_ACE_Advanced_Fatigue_RecoveryFactor">
             <English>Recovery Factor</English>
@@ -78,6 +81,7 @@
             <Portuguese>Fator de Recuperação</Portuguese>
             <Czech>Faktor zotavení</Czech>
             <Turkish>Kurtarma Faktörü</Turkish>
+            <Danish>Restitutions faktor</Danish>
         </Key>
         <Key ID="STR_ACE_Advanced_Fatigue_RecoveryFactor_Description">
             <English>Changes how fast the player recovers when resting. Higher is faster.</English>
@@ -93,6 +97,7 @@
             <Russian>Изменяет скорость восстановления игрока во время отдыха. Чем выше, тем быстрее.</Russian>
             <Portuguese>Altera o quão rápido um jogador recupera quando descansando. Quanto maior, mais rápido.</Portuguese>
             <Czech>Mění, jak rychle se hráč zotaví, když odpočívá. Vyšší je rychlejší.</Czech>
+            <Danish>Ændre hvor hurtigt spilleren restituere under afslapning. Højere er hurtigere.</Danish>
         </Key>
         <Key ID="STR_ACE_Advanced_Fatigue_LoadFactor">
             <English>Load Factor</English>
@@ -108,6 +113,7 @@
             <Russian>Фактор нагрузки</Russian>
             <Portuguese>Fator de Carga</Portuguese>
             <Czech>Faktor zatížení</Czech>
+            <Danish>Belastnings indflydelse</Danish>
         </Key>
         <Key ID="STR_ACE_Advanced_Fatigue_LoadFactor_Description">
             <English>Increases or decreases how much weight influences the players performance. Zero means equipment weight has no performance influence.</English>
@@ -123,6 +129,7 @@
             <Russian>Увеличивает или уменьшает вес, влияющий на производительность игроков. Ноль означает, что вес снаряжения не влияет на производительность</Russian>
             <Portuguese>Aumenta ou diminui o quanto o peso influencia a performance do jogador. Zero significa que o peso não tem impacto algum na performance.</Portuguese>
             <Czech>Zvyšuje nebo snižuje, jak velká váha ovlivňuje výkon hráče. Nulová hodnota znamená, že hmotnost zařízení nemá žádný vliv na výkon.</Czech>
+            <Danish>Øger eller sænker hvor meget vægt påvirker spillernes ydeevne. 0 betyder at udrustnings vægt ikke har nogen indflydelse,</Danish>
         </Key>
         <Key ID="STR_ACE_Advanced_Fatigue_TerrainGradientFactor">
             <English>Terrain Gradient Factor</English>
@@ -138,6 +145,7 @@
             <Russian>Фактор местности</Russian>
             <Portuguese>Fator de Inclinação do Terreno</Portuguese>
             <Czech>Faktor stoupání terénu</Czech>
+            <Danish>Terræn hædnings indflydelse.</Danish>
         </Key>
         <Key ID="STR_ACE_Advanced_Fatigue_TerrainGradientFactor_Description">
             <English>Sets how much steep terrain increases stamina loss. Higher means higher stamina loss.</English>
@@ -153,6 +161,7 @@
             <Russian>Устанавливает, насколько крутая местность увеличивает потерю выносливости. Чем выше, тем быстрее теряется выносливость.</Russian>
             <Portuguese>Define o quanto que um terreno íngrime aumenta na perda de estamina. Quanto maior, maior a perda de estamina.</Portuguese>
             <Czech>Nastavuje, o kolik strmý terén zvyšuje ztrátu výdrže. Vyšší znamená vyšší ztrátu výdrže.</Czech>
+            <Danish>Justér hvor meget indflydelse stejlt terræn har på tab af stamina. Højere betyder højere tab.</Danish>
         </Key>
         <Key ID="STR_ACE_Advanced_Fatigue_SwayFactor">
             <English>Sway factor</English>
@@ -168,6 +177,7 @@
             <Portuguese>Fator de Balanço de Mira</Portuguese>
             <Czech>Faktor kývání</Czech>
             <Korean>손떨림 정도</Korean>
+            <Danish>Svaje faktor</Danish>
         </Key>
         <Key ID="STR_ACE_Advanced_Fatigue_SwayFactor_Description">
             <English>Influences the amount of weapon sway. Higher means more sway.</English>
@@ -183,6 +193,7 @@
             <Portuguese>Influencia a quantidade de balanço da mira da arma. Quanto maior, mais balanço.</Portuguese>
             <Czech>Ovlivňuje množství kývání zbraní. Vyšší znamená více kývání.</Czech>
             <Korean>손떨림의 정도를 정합니다. 높을 수록 많이 휘적입니다.</Korean>
+            <Danish>Påvirker hvor meget våbnet svajer. Højere betyder mere.</Danish>
         </Key>
         <Key ID="STR_ACE_Advanced_Fatigue_Enabled">
             <English>Enabled</English>
@@ -198,6 +209,7 @@
             <Russian>Включена</Russian>
             <Portuguese>Ativado</Portuguese>
             <Czech>Povoleno</Czech>
+            <Danish>Aktiveret</Danish>
         </Key>
         <Key ID="STR_ACE_Advanced_Fatigue_Enabled_Description">
             <English>Enables/disables Advanced Fatigue.</English>
@@ -213,6 +225,7 @@
             <Russian>Включает / Отключает Продвинутую усталость</Russian>
             <Portuguese>Ativa/Desativa Fadiga Avançada.</Portuguese>
             <Czech>Aktivuje / deaktivuje Pokročilou únavu.</Czech>
+            <Danish>Aktivere/Deaktivere advanceret træthed.</Danish>
         </Key>
         <Key ID="STR_ACE_Advanced_Fatigue_EnableStaminaBar">
             <English>Show stamina bar</English>
@@ -228,6 +241,7 @@
             <Russian>Показать шкалу усталости</Russian>
             <Portuguese>Exibir barra de estamina</Portuguese>
             <Czech>Zobrazit lištu výdrže</Czech>
+            <Danish>Vis stamina indikator</Danish>
         </Key>
         <Key ID="STR_ACE_Advanced_Fatigue_EnableStaminaBar_Description">
             <English>Shows the stamina bar.</English>
@@ -243,6 +257,7 @@
             <Russian>Показывает шкалу усталости.</Russian>
             <Portuguese>Exibe a barra de estamina.</Portuguese>
             <Czech>Zobrazuje lištu výdrže</Czech>
+            <Danish>Viser stamina indikatoren</Danish>
         </Key>
         <Key ID="STR_ACE_Advanced_Fatigue_FadeStaminaBar">
             <English>Fade Stamina bar automatically</English>
@@ -259,6 +274,7 @@
             <Portuguese>Barra de stamina some automaticamente</Portuguese>
             <Turkish>Dayanıklılık çubuğunu otomatik olarak soldur</Turkish>
             <Korean>자동으로 피로도 막대 숨기기</Korean>
+            <Danish>Stamina bar falmer automatisk</Danish>
         </Key>
         <Key ID="STR_ACE_Advanced_Fatigue_FadeStaminaBar_Description">
             <English>Adjusts transparency of the bar based on stamina status.</English>
@@ -274,6 +290,7 @@
             <Polish>Dostosowuje przezroczystość paska na podstawie stanu wytrzymałości.</Polish>
             <Portuguese>Ajusta a transparência da barra baseado no status da stamina</Portuguese>
             <Korean>피로도에 따라 피로도 막대의 투명도를 조절합니다.</Korean>
+            <Danish>Justére automatisk gennemsigtigheden af indikatoren afhængigt af stamina status.</Danish>
         </Key>
     </Package>
 </Project>
