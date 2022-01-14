@@ -16,6 +16,7 @@
             <Czech>Zajatci</Czech>
             <Turkish>Tutsaklar</Turkish>
             <Spanish>Prisioneros</Spanish>
+            <Danish>Fanger</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_SetCaptive">
             <English>Take Prisoner</English>
@@ -33,6 +34,7 @@
             <Chinese>逮捕俘虜</Chinese>
             <Chinesesimp>逮捕俘虏</Chinesesimp>
             <Turkish>Kelepçele</Turkish>
+            <Danish>Tag fange</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_ReleaseCaptive">
             <English>Free Prisoner</English>
@@ -50,6 +52,7 @@
             <Chinese>釋放俘虜</Chinese>
             <Chinesesimp>释放俘虏</Chinesesimp>
             <Turkish>Serbest bırak</Turkish>
+            <Danish>Løslad fange</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_EscortCaptive">
             <English>Escort Prisoner</English>
@@ -67,6 +70,7 @@
             <Chinese>護送俘虜</Chinese>
             <Chinesesimp>护送俘虏</Chinesesimp>
             <Turkish>Tutsağı Taşı</Turkish>
+            <Danish>Eskortér fange</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_StopEscorting">
             <English>Release Prisoner</English>
@@ -84,6 +88,7 @@
             <Chinese>停止護送俘虜</Chinese>
             <Chinesesimp>停止护送俘虏</Chinesesimp>
             <Turkish>Taşımayı bırak</Turkish>
+            <Danish>Løslad fange</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_NoCaptive">
             <English>You need to take him as prisoner first!</English>
@@ -101,6 +106,7 @@
             <Chinese>你必須先逮捕他!</Chinese>
             <Chinesesimp>你必须先逮捕他!</Chinesesimp>
             <Turkish>Önce onu tutuklamalısın!</Turkish>
+            <Danish>Du skal tage ham som fange først!</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_LoadCaptive">
             <English>Load Captive</English>
@@ -118,6 +124,7 @@
             <Chinese>將俘虜放入載具</Chinese>
             <Chinesesimp>将俘虏放入载具</Chinesesimp>
             <Turkish>Tutukluyu bindir</Turkish>
+            <Danish>Opsid fange</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_UnloadCaptive">
             <English>Unload Captive</English>
@@ -135,6 +142,7 @@
             <Chinese>將俘虜帶出載具</Chinese>
             <Chinesesimp>将俘虏带出载具</Chinesesimp>
             <Turkish>Tutukluyu indir</Turkish>
+            <Danish>Afsid fange</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_CableTie">
             <English>Cable Tie</English>
@@ -152,6 +160,7 @@
             <Chinese>束線帶</Chinese>
             <Chinesesimp>束线带</Chinesesimp>
             <Turkish>Kelepçe</Turkish>
+            <Danish>Strips</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_CableTieDescription">
             <English>Cable ties that allow you to restrain prisoners.</English>
@@ -169,6 +178,7 @@
             <Chinese>束線帶可以綁住俘虜</Chinese>
             <Chinesesimp>束线带可以绑住俘虏</Chinesesimp>
             <Turkish>Kişilerin ellerini bağlamanız için kablo sağlar.</Turkish>
+            <Danish>Strips der lader dig tage fanger</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_StartSurrendering">
             <English>Surrender</English>
@@ -186,6 +196,7 @@
             <Chinese>投降</Chinese>
             <Chinesesimp>投降</Chinesesimp>
             <Turkish>Teslim ol</Turkish>
+            <Danish>Overgiv</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_StopSurrendering">
             <English>Stop Surrendering</English>
@@ -203,6 +214,7 @@
             <Chinese>停止投降</Chinese>
             <Chinesesimp>停止投降</Chinesesimp>
             <Turkish>Teslim olmayı durdur</Turkish>
+            <Danish>Stop overgivelse</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_ModuleSurrender_DisplayName">
             <English>Make Unit Surrender</English>
@@ -220,6 +232,7 @@
             <Chinese>使單位投降</Chinese>
             <Chinesesimp>使单位投降</Chinesesimp>
             <Turkish>Teslim olmaya zorla</Turkish>
+            <Danish>Få enhed til at overgive sig</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_ModuleSurrender_Description">
             <English>Sync a unit to make them surrender.</English>
@@ -236,6 +249,7 @@
             <Korean>투항시키기 위해 동기화합니다.</Korean>
             <Chinese>同步此模塊到一個單位，使該單位投降</Chinese>
             <Chinesesimp>同步此模块到一个单位，使该单位投降</Chinesesimp>
+            <Danish>Sync en enhed for at de kan overgive sig</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_ModuleHandcuffed_DisplayName">
             <English>Make Unit Handcuffed</English>
@@ -252,6 +266,7 @@
             <Chinese>使單位戴上手銬</Chinese>
             <Chinesesimp>使单位戴上手铐</Chinesesimp>
             <Turkish>Birimi Kelepçele</Turkish>
+            <Danish>Put enhed i håndjern</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_ModuleHandcuffed_Description">
             <English>Sync a unit to make them handcuffed.</English>
@@ -268,6 +283,7 @@
             <Chinese>使單位戴上手銬</Chinese>
             <Chinesesimp>使单位戴上手铐</Chinesesimp>
             <Turkish>Birim kelepçelendi</Turkish>
+            <Danish>Sync en enhed for at putte dem i håndjern</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_ModuleSettings_DisplayName">
             <English>Captives Settings</English>
@@ -285,6 +301,7 @@
             <Chinese>俘虜設定</Chinese>
             <Chinesesimp>俘虏设定</Chinesesimp>
             <Turkish>Tutsak Ayarları</Turkish>
+            <Danish>Fanger settings</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_ModuleSettings_Description">
             <English>Controls settings for surrender and cable ties</English>
@@ -301,6 +318,7 @@
             <Korean>투항과 케이블 타이에 관련한 설정</Korean>
             <Chinese>定義投降與束帶等設定</Chinese>
             <Chinesesimp>定义投降与束带等设定</Chinesesimp>
+            <Danish>Kontrollere sttings for overgivelse og strips</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_ModuleSettings_handcuffSide_name">
             <English>Can handcuff own side</English>
@@ -317,6 +335,7 @@
             <Korean>자기편을 포박 할 수 있습니다.</Korean>
             <Chinese>可以銬住同陣營隊友</Chinese>
             <Chinesesimp>可以铐住同阵营队友</Chinesesimp>
+            <Danish>Kan stripse venlige styrker</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_ModuleSettings_handcuffSide_description">
             <English>Can players cabletie units on their own side</English>
@@ -333,6 +352,7 @@
             <Korean>자기편에게 케이블타이를 사용할 수 있게합니다</Korean>
             <Chinese>玩家可以使用束線帶銬住同陣營隊友</Chinese>
             <Chinesesimp>玩家可以使用束线带铐住同阵营队友</Chinesesimp>
+            <Danish>Kan spillere stripse egne styrker</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_ModuleSettings_requireSurrender_name">
             <English>Require surrendering</English>
@@ -348,6 +368,7 @@
             <Korean>투항 필요</Korean>
             <Chinese>要求目標投降</Chinese>
             <Chinesesimp>要求目标投降</Chinesesimp>
+            <Danish>Kræver overgivelse</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_ModuleSettings_requireSurrender_description">
             <English>Require Players to surrender before they can be arrested</English>
@@ -363,6 +384,7 @@
             <Korean>체포하기 전에 먼저 플레이어가 투항을 해야만 합니다</Korean>
             <Chinese>玩家須先要求目標投降，才可以進行逮捕</Chinese>
             <Chinesesimp>玩家须先要求目标投降，才可以进行逮捕</Chinesesimp>
+            <Danish>Kræver at spillere overgiver sig før de kan tilfangetages</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_SurrenderOnly">
             <English>Surrendering only</English>
@@ -378,6 +400,7 @@
             <Korean>투항 중에만</Korean>
             <Chinese>只能在投降狀態</Chinese>
             <Chinesesimp>只能在投降状态</Chinesesimp>
+            <Danish>Kun ved overgivelse</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_SurrenderOrNoWeapon">
             <English>Surrendering or No weapon</English>
@@ -393,6 +416,7 @@
             <Korean>투항 중 혹은 비무장</Korean>
             <Chinese>投降或無武器狀態</Chinese>
             <Chinesesimp>投降或无武器状态</Chinesesimp>
+            <Danish>Overgivelse eller intet våben</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_ModuleSettings_allowSurrender_name">
             <English>Allow surrendering</English>
@@ -409,6 +433,7 @@
             <Korean>투항 활성화</Korean>
             <Chinese>允許投降</Chinese>
             <Chinesesimp>允许投降</Chinesesimp>
+            <Danish>Tillad overgivelse</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_ModuleSettings_allowSurrender_description">
             <English>Players can surrender after holstering their weapon</English>
@@ -425,6 +450,7 @@
             <Korean>비무장한 플레이어가 투항할 수 있게 합니다</Korean>
             <Chinese>玩家能在收起自己武器後投降</Chinese>
             <Chinesesimp>玩家能在收起自己武器后投降</Chinesesimp>
+            <Danish>Spillere kan overgive sig når de har skjult deres våben</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_ModuleSettings_requireSurrenderAi_name">
             <English>Require AI surrendering</English>
@@ -440,6 +466,7 @@
             <French>Requiert la reddition de l'IA</French>
             <Czech>Vyžadovat, aby se AI prvně vzdala</Czech>
             <Spanish>Requiere la rendición de la IA</Spanish>
+            <Danish>Kræv AI overgivelse</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_ModuleSettings_requireSurrenderAi_description">
             <English>Require AI to surrender before they can be arrested</English>
@@ -455,6 +482,7 @@
             <French>Requiert la capitulation des unités IA avant qu'elles ne puissent être arrêtées.</French>
             <Czech>Vyžadovat, aby se AI prvně vzdala před umožněním zajetí</Czech>
             <Spanish>Requiere la rendición de la IA antes de poder arrestarlas</Spanish>
+            <Danish>Kræv AI overgivelse før de kan tilfangetages</Danish>
         </Key>
         <Key ID="STR_ACE_Captives_KeyComb_Description">
             <English>Sets the unit under the cursor captive.</English>
@@ -470,6 +498,7 @@
             <French>Capture l'unité sous le curseur.</French>
             <Czech>Nastaví jednotku pod kurzorem jako zajatce.</Czech>
             <Spanish>Establece a la unidad bajo el cursor como prisionera</Spanish>
+            <Danish>Sæt enhed under cursor som tilfangetagen</Danish>
         </Key>
     </Package>
 </Project>
