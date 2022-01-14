@@ -17,6 +17,7 @@
             <Chinese>ATragMX</Chinese>
             <Chinesesimp>ATragMX</Chinesesimp>
             <Turkish>ATragMX</Turkish>
+            <Danish>ATragMX</Danish>
         </Key>
         <Key ID="STR_ACE_ATragMX_OpenATragMXDialog">
             <English>Open ATragMX</English>
@@ -34,6 +35,7 @@
             <Chinese>開啟ATragMX</Chinese>
             <Chinesesimp>开启ATragMX</Chinesesimp>
             <Turkish>ATragMX'i aç</Turkish>
+            <Danish>Åben ATragMX</Danish>
         </Key>
         <Key ID="STR_ACE_ATragMX_Description">
             <English>Rugged PDA with ATragMX</English>
@@ -51,6 +53,7 @@
             <Chinese>裝有軍用PDA的ATragMX</Chinese>
             <Chinesesimp>装有军用PDA的ATragMX</Chinesesimp>
             <Turkish>Rugged PDA with ATragMX</Turkish>
+            <Danish>Robust PDA med ATragMX</Danish>
         </Key>
         <Key ID="STR_ACE_ATragMX_ATragMXDialogKey">
             <English>Open ATragMX</English>
@@ -68,6 +71,7 @@
             <Chinese>開啟ATragMX</Chinese>
             <Chinesesimp>开启ATragMX</Chinesesimp>
             <Turkish>ATragMX'i aç</Turkish>
+            <Danish>Åben ATragMX</Danish>
         </Key>
     </Package>
 </Project>
