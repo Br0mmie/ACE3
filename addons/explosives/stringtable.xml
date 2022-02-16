@@ -17,6 +17,7 @@
             <Chinesesimp>炸药</Chinesesimp>
             <Chinese>炸藥</Chinese>
             <Turkish>Patlayıcılar</Turkish>
+            <Danish>Sprængstof</Danish>
         </Key>
         <Key ID="STR_ACE_Explosives_Place">
             <English>Place</English>
@@ -34,6 +35,7 @@
             <Chinesesimp>放置</Chinesesimp>
             <Chinese>放置</Chinese>
             <Turkish>Yerleştir</Turkish>
+            <Danish>Placér</Danish>
         </Key>
         <Key ID="STR_ACE_Explosives_Detonate">
             <English>Detonate</English>
@@ -51,6 +53,7 @@
             <Chinesesimp>引爆</Chinesesimp>
             <Chinese>引爆</Chinese>
             <Turkish>Patlat</Turkish>
+            <Danish>Detonér</Danish>
         </Key>
         <Key ID="STR_ACE_Explosives_DetonateAll">
             <English>Detonate All</English>
@@ -67,6 +70,7 @@
             <Chinesesimp>引爆全部</Chinesesimp>
             <Chinese>引爆全部</Chinese>
             <Turkish>Hepsini Patlat</Turkish>
+            <Danish>Detonér alle</Danish>
         </Key>
         <Key ID="STR_ACE_Explosives_DetonateCode">
             <English>Explosive code: %1</English>
@@ -84,6 +88,7 @@
             <Chinesesimp>炸药代码: %1</Chinesesimp>
             <Chinese>炸藥代號: %1</Chinese>
             <Turkish>Patlayıcı Kodu: %1</Turkish>
+            <Danish>Sprængningskode: %1</Danish>
         </Key>
         <Key ID="STR_ACE_Explosives_PlaceAction">
             <English>Place</English>
@@ -101,6 +106,7 @@
             <Chinesesimp>放置</Chinesesimp>
             <Chinese>放置</Chinese>
             <Turkish>Yerleştir</Turkish>
+            <Danish>Placér</Danish>
         </Key>
         <Key ID="STR_ACE_Explosives_AttachAction">
             <English>Attach</English>
@@ -118,6 +124,7 @@
             <Chinesesimp>连接</Chinesesimp>
             <Chinese>連接</Chinese>
             <Turkish>Bağla</Turkish>
+            <Danish>Sammenkobl</Danish>
         </Key>
         <Key ID="STR_ACE_Explosives_BlockedAction">
             <English>Blocked</English>
@@ -134,6 +141,7 @@
             <Chinesesimp>断开</Chinesesimp>
             <Chinese>斷開</Chinese>
             <Turkish>Bloke Edilmiş</Turkish>
+            <Danish>Blokeret</Danish>
         </Key>
         <Key ID="STR_ACE_Explosives_CancelAction">
             <English>Cancel</English>
@@ -151,6 +159,7 @@
             <Chinesesimp>取消</Chinesesimp>
             <Chinese>取消</Chinese>
             <Turkish>Iptal</Turkish>
+            <Danish>Annullér</Danish>
         </Key>
         <Key ID="STR_ACE_Explosives_ScrollAction">
             <English>Rotate</English>
@@ -168,6 +177,7 @@
             <Chinesesimp>旋转</Chinesesimp>
             <Chinese>旋轉</Chinese>
             <Turkish>Döndür</Turkish>
+            <Danish>Rotér</Danish>
         </Key>
         <Key ID="STR_ACE_Explosives_Jammer_TurnOn">
             <English>Turn On Thor III</English>
@@ -185,6 +195,7 @@
             <Chinesesimp>开启索尔三型</Chinesesimp>
             <Chinese>開啟索爾三型</Chinese>
             <Turkish>Thor III ü aç</Turkish>
+            <Danish>Tænd THOR III</Danish>
         </Key>
         <Key ID="STR_ACE_Explosives_Jammer_TurnOff">
             <English>Turn Off Thor III</English>
@@ -202,6 +213,7 @@
             <Chinesesimp>关闭索尔三型</Chinesesimp>
             <Chinese>關閉索爾三型</Chinese>
             <Turkish>Thor III ü kapat</Turkish>
+            <Danish>Sluk THOR III</Danish>
         </Key>
         <Key ID="STR_ACE_Explosives_cellphone_displayName">
             <English>Cellphone</English>
@@ -219,6 +231,7 @@
             <Chinesesimp>手机</Chinesesimp>
             <Chinese>手機</Chinese>
             <Turkish>Cep Telefonu</Turkish>
+            <Danish>Mobiltelefon</Danish>
         </Key>
         <Key ID="STR_ACE_Explosives_cellphone_description">
             <English>Used to remotely trigger explosives</English>
@@ -236,6 +249,7 @@
             <Chinesesimp>用于远端引爆炸药</Chinesesimp>
             <Chinese>用於遠端引爆炸藥</Chinese>
             <Turkish>Bombaları uzaktan patlatmak için kullanılır</Turkish>
+            <Danish>Fjernstyre sprængstof</Danish>
         </Key>
         <Key ID="STR_ACE_Explosives_clacker_displayName">
             <English>M57 Firing Device</English>
@@ -253,6 +267,7 @@
             <Chinesesimp>M57 引爆装置</Chinesesimp>
             <Chinese>M57 引爆裝置</Chinese>
             <Turkish>M57 Ateşleme Cihazı</Turkish>
+            <Danish>M57 sprængnings enhed</Danish>
         </Key>
         <Key ID="STR_ACE_Explosives_clacker_description">
             <English>Used to remotely trigger explosives</English>
@@ -270,6 +285,7 @@
             <Chinesesimp>用于远端引爆炸药</Chinesesimp>
             <Chinese>用於遠端引爆炸藥</Chinese>
             <Turkish>Patlayıcıları uzaktan tetiklemek için kullanılır</Turkish>
+            <Danish>Bruges til at fjernstyre sprængstof</Danish>
         </Key>
         <Key ID="STR_ACE_Explosives_M152_Clacker_displayName">
             <English>M152 Firing Device</English>
@@ -287,6 +303,7 @@
             <Chinesesimp>M152 引爆装置</Chinesesimp>
             <Chinese>M152 引爆裝置</Chinese>
             <Turkish>M152 Ateşleme Cihazı</Turkish>
+            <Danish>M152 sprængsnings enhed</Danish>
         </Key>
         <Key ID="STR_ACE_Explosives_M152_displayName">
             <English>M152 RAMS</English>
@@ -304,6 +321,7 @@
             <Chinesesimp>M152 远端炸药引爆系统</Chinesesimp>
             <Chinese>M152 遠端炸藥引爆系統</Chinese>
             <Turkish>M152 RAMS</Turkish>
+            <Danish>M152 RAMS</Danish>
         </Key>
         <Key ID="STR_ACE_Explosives_DefusalKit_displayName">
             <English>Defusal Kit</English>
